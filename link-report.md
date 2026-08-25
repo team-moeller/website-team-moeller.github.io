@@ -15,8 +15,8 @@ Geprüft: **183 externe Links** über alle 202 Seiten.
 ~~**Bereits automatisch repariert:** Der kaputte Link `?Links:Profis_&_Vereine` (alter Seitenname,~~
 ~~URL-encoding-Leiche) auf der Links-Seite zeigt jetzt korrekt auf `links/profis-und-vereine.html`.~~
 
-**Bereits entfernt:** Google+-Autorenlink im Footer (Google+ wurde 2019 abgeschaltet),
-Google-Analytics-Snippet (ga.js, in historie/2008.html).
+~~**Bereits entfernt:** Google+-Autorenlink im Footer (Google+ wurde 2019 abgeschaltet),~~
+~~Google-Analytics-Snippet (ga.js, in historie/2008.html).~~
 
 ## Definitiv tot — Domain/Host weg (13)
 
