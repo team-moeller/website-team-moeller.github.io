@@ -6,14 +6,14 @@ Geprüft: **183 externe Links** über alle 202 Seiten.
 
 | Link | Seite | Status |
 |---|---|---|
-| `Links → Links zu Microsoft` | links.html | Zielseite existiert im CMS nicht mehr (404) |
-| `Links → Diverses` | links.html | Zielseite existiert im CMS nicht mehr (404) |
+| ~~`Links → Links zu Microsoft`~~ | ~~links.html~~ | ~~Zielseite existiert im CMS nicht mehr (404)~~ |
+| ~~`Links → Diverses`~~ | ~~links.html~~ | ~~Zielseite existiert im CMS nicht mehr (404)~~ |
 
-Beide zeigen jetzt auf `links/microsoft.html` bzw. `links/diverses.html` (existieren nicht).
-→ Entscheidung nötig: Links entfernen oder Seiten wiederherstellen.
+~~Beide zeigen jetzt auf `links/microsoft.html` bzw. `links/diverses.html` (existieren nicht).~~
+~~→ Entscheidung nötig: Links entfernen oder Seiten wiederherstellen.~~
 
-**Bereits automatisch repariert:** Der kaputte Link `?Links:Profis_&_Vereine` (alter Seitenname,
-URL-encoding-Leiche) auf der Links-Seite zeigt jetzt korrekt auf `links/profis-und-vereine.html`.
+~~**Bereits automatisch repariert:** Der kaputte Link `?Links:Profis_&_Vereine` (alter Seitenname,~~
+~~URL-encoding-Leiche) auf der Links-Seite zeigt jetzt korrekt auf `links/profis-und-vereine.html`.~~
 
 **Bereits entfernt:** Google+-Autorenlink im Footer (Google+ wurde 2019 abgeschaltet),
 Google-Analytics-Snippet (ga.js, in historie/2008.html).
