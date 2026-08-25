@@ -40,9 +40,9 @@ Inhalte sind ansonsten 1:1 identisch übernommen (Layout, Texte, Bilder).
 
 ## Noch offen
 
-- **Download-Dateien**: bewusst nicht mitkopiert. Alle Seiten verlinken bereits auf
+- ~~**Download-Dateien**: bewusst nicht mitkopiert. Alle Seiten verlinken bereits auf
   `downloads/<datei>` — Liste der 58 Dateien in [downloads-manifest.md](downloads-manifest.md).
-  Quelle: `https://team-moeller.de/userfiles/downloads/<datei>`.
+  Quelle: `https://team-moeller.de/userfiles/downloads/<datei>`.~~
 - **Tote Links**: siehe [link-report.md](link-report.md) — u. a. zwei interne Links auf der
   Links-Seite, deren Zielseiten schon im CMS fehlten.
 - `downloads-manifest.md` und `link-report.md` vor dem Livegang löschen oder behalten — Geschmackssache.
