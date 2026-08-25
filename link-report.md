@@ -22,7 +22,7 @@ Geprüft: **183 externe Links** über alle 202 Seiten.
 
 | Fehler | URL | verlinkt von |
 |---|---|---|
-| URLError | http://abiss.de/content/produkte/ms-access/duplikate-suchen-und-entfernen/duplikate-suchen-und-entfernen-fuer-ms-access-ab-version-97_100128_0.html | add-ins.html |
+| ~~URLError~~ | ~~http://abiss.de/content/produkte/ms-access/duplikate-suchen-und-entfernen/duplikate-suchen-und-entfernen-fuer-ms-access-ab-version-97_100128_0.html~~ | ~~add-ins.html~~ |
 | URLError | http://blog.datamanagementsolutions.biz/dms.html | links/blogs.html |
 | URLError | http://developer.novell.com/wiki/index.php/GroupWise_Object_API | tipps-und-tricks/e-mails-versenden-mit-access.html |
 | URLError | http://msmvps.com/blogs/access/ | links/blogs.html |
