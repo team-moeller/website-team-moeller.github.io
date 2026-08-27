@@ -69,7 +69,7 @@ Geprüft: **183 externe Links** über alle 202 Seiten.
 | 403 | http://blogs.msdn.com/b/vsod/archive/2012/11/21/vb6-based-add-ins-may-fail-to-work-on-office-2013.aspx | tipps-und-tricks/com-add-ins-erstellen.html |
 | 403 | http://rogersaccesslibrary.com/ | links/englischsprachig.html |
 | 403 | http://www.databasejournal.com | links/englischsprachig.html |
-| 403 | http://www.donkarl.com/Downloads/AEK/ | tipps-und-tricks/e-mails-versenden-mit-access.html |
+| ~~403~~ | ~~http://www.donkarl.com/Downloads/AEK/~~ | ~~tipps-und-tricks/e-mails-versenden-mit-access.html~~ |
 | 403 | http://www.kieseler.de/download.htm | tipps-und-tricks/e-mails-versenden-mit-access.html |
 | 403 | http://www.mvp-access.es/juanmafan/wizhook/wizhook.htm | tipps-und-tricks/wizhook-objekt.html |
 | 403 | https://accessusergroups.org/europe | index.html |
