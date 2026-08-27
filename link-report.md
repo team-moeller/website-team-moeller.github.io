@@ -60,7 +60,7 @@ Geprüft: **183 externe Links** über alle 202 Seiten.
 | http://www.microsoft.com/downloads/en/details.aspx?FamilyID=509c3ba1-4efc-42b5-b6d8-0232b2cbb26e&displaylang=en | tipps-und-tricks/quellcodeverwaltung-mit-access/team-foundation-server.html |
 | http://www.microsoft.com/downloads/en/details.aspx?FamilyID=5e13b15a-fd74-4cd7-b53e-bdf9456855bd&displaylang=en | tipps-und-tricks/quellcodeverwaltung-mit-access/team-foundation-server.html |
 | http://www.pdf-tools.com/asp/products.asp?name=VWPA | tipps-und-tricks/access-und-adobe-reader-7.html |
-| http://www.xoc.net/standards/rvbanc.asp | tipps-und-tricks/regeln-und-hinweise-fuer-gutes-vba/pro-zeile-eine-variable-deklarieren.html, tipps-und-tricks/regeln-und-hinweise-fuer-gutes-vba/steuerelemente-aussagekraeftig-benamsen.html |
+| ~~http://www.xoc.net/standards/rvbanc.asp~~ | ~~tipps-und-tricks/regeln-und-hinweise-fuer-gutes-vba/pro-zeile-eine-variable-deklarieren.html, tipps-und-tricks/regeln-und-hinweise-fuer-gutes-vba/steuerelemente-aussagekraeftig-benamsen.html~~ |
 
 ## Verdächtig — 403/999, vermutlich nur Bot-Schutz, manuell prüfen (8)
 
