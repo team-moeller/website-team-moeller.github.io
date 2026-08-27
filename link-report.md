@@ -71,9 +71,9 @@ Geprüft: **183 externe Links** über alle 202 Seiten.
 | 403 | http://www.databasejournal.com | links/englischsprachig.html |
 | ~~403~~ | ~~http://www.donkarl.com/Downloads/AEK/~~ | ~~tipps-und-tricks/e-mails-versenden-mit-access.html~~ |
 | 403 | http://www.kieseler.de/download.htm | tipps-und-tricks/e-mails-versenden-mit-access.html |
-| 403 | http://www.mvp-access.es/juanmafan/wizhook/wizhook.htm | tipps-und-tricks/wizhook-objekt.html |
-| 403 | https://accessusergroups.org/europe | index.html |
-| 999 | https://www.linkedin.com/in/ben-sacherich-ba0b25 | en/add-ins/tm-rebuild-database.html |
+| ~~403~~ | ~~http://www.mvp-access.es/juanmafan/wizhook/wizhook.htm~~ | ~~tipps-und-tricks/wizhook-objekt.html~~ |
+| ~~403~~ | ~~https://accessusergroups.org/europe~~ | ~~index.html~~ |
+| ~~999~~ | ~~https://www.linkedin.com/in/ben-sacherich-ba0b25~~ | ~~en/add-ins/tm-rebuild-database.html~~ |
 
 ## OK (141)
 
