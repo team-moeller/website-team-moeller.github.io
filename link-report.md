@@ -40,7 +40,7 @@ Geprüft: **183 externe Links** über alle 202 Seiten.
 
 | URL | verlinkt von |
 |---|---|
-| http://blogs.msdn.com/access/ | links/blogs.html |
+| ~~http://blogs.msdn.com/access/~~ | ~~links/blogs.html~~ |
 | http://blogs.msdn.com/access/archive/2008/05/14/access-source-code-control-and-team-foundation-server.aspx | tipps-und-tricks/quellcodeverwaltung-mit-access/team-foundation-server.html |
 | http://ic.net/~kusluski/ | tipps-und-tricks/access-und-adobe-reader-7.html |
 | http://support.microsoft.com/kb/891176/de | tipps-und-tricks/verbesserung-der-performance.html |
